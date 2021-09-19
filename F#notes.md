@@ -12,4 +12,6 @@
 - Nuget is package manager for .net
 - Syntax for external package import is #r "nuget:pacakgeName,version"
 - Beginner documentation  : https://aka.ms/learn-fsharp
+- Time claculation in terminal : /usr/bin/time dotnet fsi A.fsx
+
 
